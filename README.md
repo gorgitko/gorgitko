@@ -35,7 +35,11 @@ Git versioning and continuous integration (GitHub Actions). I like to write clea
 
 I am also teaching practicals in the Analysis of Gene Expression at the [University of Chemistry and Technology in Prague](https://www.vscht.cz//?jazyk=en).
 
-- [Exercise materials for Analysis of Gene Expression](https://github.com/gorgitko/analysis_of_gene_expression)
+- [Exercise materials for the Analysis of Gene Expression](https://github.com/gorgitko/analysis_of_gene_expression)
+
+Several times I was also participating as a lecturer at
+[https://www.seqme.eu/en/courses/dates/ngs-autumn-school](Prague Autumn School - RNASeq Data Analysis Workshop) organized by
+[SeqMe company](https://www.seqme.eu/en).
 
 <!--
 **gorgitko/gorgitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
