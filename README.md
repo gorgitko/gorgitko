@@ -38,7 +38,7 @@ I am also teaching practicals in the Analysis of Gene Expression at the [Univers
 - [Exercise materials for the Analysis of Gene Expression](https://github.com/gorgitko/analysis_of_gene_expression)
 
 Several times I was also participating as a lecturer at
-[https://www.seqme.eu/en/courses/dates/ngs-autumn-school](Prague Autumn School - RNASeq Data Analysis Workshop) organized by
+[Prague Autumn School - RNASeq Data Analysis Workshop](https://www.seqme.eu/en/courses/dates/ngs-autumn-school) organized by
 [SeqMe company](https://www.seqme.eu/en).
 
 <!--
