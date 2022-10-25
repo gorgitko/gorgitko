@@ -1,18 +1,11 @@
-[![LI-Bug svg original](https://user-images.githubusercontent.com/15315342/197699327-7c706080-3f9e-4cd6-872d-920911ab5540.png)](https://www.linkedin.com/in/ji%C5%99%C3%AD-novotn%C3%BD-1b6a25182/) | 
-[![image](https://user-images.githubusercontent.com/15315342/197699167-5cb62283-9b4d-4158-b71b-654284c83a1e.png)](https://orcid.org/0000-0003-1338-638X)
-
-***
-
 ### Hello! 👋
 
 My name is Jiri Novotny, I come from the Czech Republic, and I am a [bioinformatician](https://en.wikipedia.org/wiki/Bioinformatics).
 Currently I am doing a Ph.D. at the [Institute of Molecular Genetics of the Czech Academy of Sciences](https://www.img.cas.cz/en/)
 in the [Laboratory of Genomics and Bioinformatics](https://www.img.cas.cz/group/michal-kolar/).
 
-To grab the chance to promote my study programme, here is the link: <http://studuj.bioinformatiku.cz/>
-
-I would say, it's not an easy, but interesting and satisfying field and the future is bright as more people are needed to analyze
-the neverending, large bunch of biological data or to develop tools that make this task easier for others.
+[![LinkedIn](https://user-images.githubusercontent.com/15315342/197699327-7c706080-3f9e-4cd6-872d-920911ab5540.png)](https://www.linkedin.com/in/ji%C5%99%C3%AD-novotn%C3%BD-1b6a25182/)
+[![ORCID_iD](https://user-images.githubusercontent.com/15315342/197780012-18858dc8-03da-4492-a4e5-2172245d1606.png)](https://orcid.org/0000-0003-1338-638X)
 
 ### What do I do in bioinformatics? 🤓
 
@@ -36,6 +29,11 @@ Git versioning and continuous integration (GitHub Actions). I like to write clea
 I am also teaching practicals in the Analysis of Gene Expression at the [University of Chemistry and Technology in Prague](https://www.vscht.cz//?jazyk=en).
 
 - [Exercise materials for the Analysis of Gene Expression](https://github.com/gorgitko/analysis_of_gene_expression)
+
+To grab the chance to promote my study programme, here is the link: <http://studuj.bioinformatiku.cz/>
+
+I would say, it's not an easy, but interesting and satisfying field and the future is bright as more people are needed to analyze
+the neverending, large bunch of biological data or to develop tools that make this task easier for others.
 
 Several times I was also participating as a lecturer at
 [Prague Autumn School - RNASeq Data Analysis Workshop](https://www.seqme.eu/en/courses/dates/ngs-autumn-school) organized by
