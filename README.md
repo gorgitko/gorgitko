@@ -4,6 +4,8 @@ My name is Jiri Novotny, I come from the Czech Republic, and I am a [bioinformat
 Currently I am doing a Ph.D. at the [Institute of Molecular Genetics of the Czech Academy of Sciences](https://www.img.cas.cz/en/)
 in the [Laboratory of Genomics and Bioinformatics](https://www.img.cas.cz/group/michal-kolar/).
 
+Recently I have joined [Immunai](https://www.immunai.com) as a single-cell data curator / computational biologist.
+
 [![LinkedIn](https://user-images.githubusercontent.com/15315342/197699327-7c706080-3f9e-4cd6-872d-920911ab5540.png)](https://www.linkedin.com/in/ji%C5%99%C3%AD-novotn%C3%BD-1b6a25182/)
 [![ORCID_iD](https://user-images.githubusercontent.com/15315342/197780012-18858dc8-03da-4492-a4e5-2172245d1606.png)](https://orcid.org/0000-0003-1338-638X)
 
