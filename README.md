@@ -2,7 +2,7 @@
 
 My name is Jiri Novotny, I come from the Czech Republic, and I am a [bioinformatician](https://en.wikipedia.org/wiki/Bioinformatics).
 
-I am currently working for [Immunai](https://www.immunai.com) as a computational biologist / software engineer.
+I am currently working for [Immunai](https://www.immunai.com) as a bioinformatics software engineer and partially for [Faculty Hospital Ostrava](https://www.fno.cz/) as a general-purpose bioinformatician (see https://github.com/DNA-Lab-FNO).
 
 [![LinkedIn](https://user-images.githubusercontent.com/15315342/197699327-7c706080-3f9e-4cd6-872d-920911ab5540.png)](https://www.linkedin.com/in/ji%C5%99%C3%AD-novotn%C3%BD-1b6a25182/)
 [![ORCID_iD](https://user-images.githubusercontent.com/15315342/197780012-18858dc8-03da-4492-a4e5-2172245d1606.png)](https://orcid.org/0000-0003-1338-638X)
@@ -38,7 +38,7 @@ To grab the chance to promote my study programme, here is the link: <http://stud
 I would say, it's not an easy, but interesting and satisfying field and the future is bright as more people are needed to analyze
 the neverending, large bunch of biological data or to develop tools that make this task easier for others.
 
-Several times I was also participating as a lecturer at
+I am also participating (so far more than five times) as a lecturer at
 [Prague Autumn School - RNASeq Data Analysis Workshop](https://www.seqme.eu/en/courses/dates/ngs-autumn-school) organized by
 [SeqMe company](https://www.seqme.eu/en).
 
